@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="spr@userDefined" key=".spr" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="sprintf($EXPR$);" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
