@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env.builder.dist" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
