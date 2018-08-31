@@ -1,8 +1,12 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="count@userDefined" key=".count" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="count($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="spr@userDefined" key=".spr" provider="builtin.php" topmost="false">
       <conditions />
-      <template name="fakeKey" value="sprintf($EXPR$);" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="sprintf($EXPR$);" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
