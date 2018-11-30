@@ -4,4 +4,9 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="{T" value="{{ '$END$' | trans }}" description="Create translation output" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
