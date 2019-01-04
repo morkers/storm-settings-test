@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="/*i" value="/**&#10; * {@inheritedoc}&#10; */" description="Inheritedoc template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>
