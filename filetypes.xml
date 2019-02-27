@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="sess_14b98649c5d7afc8837ab9c2931e5553" type="PLAIN_TEXT" />
+      <mapping pattern=".env.builder.dist" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="sess_691ccc644d5787b2478bb3228a1a1ffa" type="PLAIN_TEXT" />
-      <mapping pattern="sess_819199dcd956d4c323c0dc474bafa8b6" type="PLAIN_TEXT" />
       <mapping pattern="sess_4f1f458204f52a7f125a0c3b2befb8b9" type="PLAIN_TEXT" />
-      <mapping pattern=".env.builder.dist" type="PLAIN_TEXT" />
+      <mapping pattern="sess_819199dcd956d4c323c0dc474bafa8b6" type="PLAIN_TEXT" />
+      <mapping pattern="sess_14b98649c5d7afc8837ab9c2931e5553" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
+      <mapping ext="ya" type="UML" />
     </extensionMap>
   </component>
 </application>
